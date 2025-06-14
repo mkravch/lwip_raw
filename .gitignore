@@ -90,14 +90,7 @@ gui
 !/library/*/rtl/*
 ipcache
 projects/*/*/*.ip_user_files
-projects/*/*/sw_src/*
-!projects/*/*/sw_src/main_processing
-!projects/*/*/sw_src/standalone_bsp_0
-projects/*/*/sw_src/main_processing/*
-!projects/*/*/sw_src/main_processing/src
-projects/*/*/sw_src/standalone_bsp_0/*
-!projects/*/*/sw_src/standalone_bsp_0/*.mss
-projects/*/*/tmp/*
+!projects/*/*/sw_src/*
 !sw_library/*
 
 *.ip_user_files
